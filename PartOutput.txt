@@ -1,0 +1,25 @@
+07:27:07.202 [main] DEBUG [org.apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+07:27:07.205 [main] DEBUG [org.apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+07:27:07.208 [main] DEBUG [org.apache.ibatis.io.VFS] - Class not found: org.jboss.vfs.VFS
+07:27:07.208 [main] DEBUG [org.apache.ibatis.io.JBoss6VFS] - JBoss 6 VFS API is not available in this environment.
+07:27:07.208 [main] DEBUG [org.apache.ibatis.io.VFS] - Class not found: org.jboss.vfs.VirtualFile
+07:27:07.208 [main] DEBUG [org.apache.ibatis.io.VFS] - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+07:27:07.209 [main] DEBUG [org.apache.ibatis.io.VFS] - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+07:27:07.209 [main] DEBUG [org.apache.ibatis.io.DefaultVFS] - Find JAR URL: file:/D:/Programmer/code/java/BaseTest/out/production/BaseTest/com/lolicon/test/model
+07:27:07.209 [main] DEBUG [org.apache.ibatis.io.DefaultVFS] - Not a JAR: file:/D:/Programmer/code/java/BaseTest/out/production/BaseTest/com/lolicon/test/model
+07:27:07.241 [main] DEBUG [org.apache.ibatis.io.DefaultVFS] - Reader entry: Logs.class
+07:27:07.242 [main] DEBUG [org.apache.ibatis.io.DefaultVFS] - Reader entry: Var.class
+07:27:07.242 [main] DEBUG [org.apache.ibatis.io.DefaultVFS] - Listing file:/D:/Programmer/code/java/BaseTest/out/production/BaseTest/com/lolicon/test/model
+07:27:07.242 [main] DEBUG [org.apache.ibatis.io.DefaultVFS] - Find JAR URL: file:/D:/Programmer/code/java/BaseTest/out/production/BaseTest/com/lolicon/test/model/Logs.class
+07:27:07.242 [main] DEBUG [org.apache.ibatis.io.DefaultVFS] - Not a JAR: file:/D:/Programmer/code/java/BaseTest/out/production/BaseTest/com/lolicon/test/model/Logs.class
+07:27:07.243 [main] DEBUG [org.apache.ibatis.io.DefaultVFS] - Reader entry: ����   < 
+07:27:07.245 [main] DEBUG [org.apache.ibatis.io.DefaultVFS] - Find JAR URL: file:/D:/Programmer/code/java/BaseTest/out/production/BaseTest/com/lolicon/test/model/Var.class
+07:27:07.245 [main] DEBUG [org.apache.ibatis.io.DefaultVFS] - Not a JAR: file:/D:/Programmer/code/java/BaseTest/out/production/BaseTest/com/lolicon/test/model/Var.class
+07:27:07.246 [main] DEBUG [org.apache.ibatis.io.DefaultVFS] - Reader entry: ����   < 
+07:27:07.247 [main] DEBUG [org.apache.ibatis.io.ResolverUtil] - Checking to see if class com.lolicon.test.model.Logs matches criteria [is assignable to Object]
+07:27:07.248 [main] DEBUG [org.apache.ibatis.io.ResolverUtil] - Checking to see if class com.lolicon.test.model.Var matches criteria [is assignable to Object]
+07:27:07.273 [main] DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+07:27:07.273 [main] DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+07:27:07.273 [main] DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+07:27:07.273 [main] DEBUG [org.apache.ibatis.datasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+07:27:07.337 [main] DEBUG [org.apache.ibatis.transaction.jdbc.JdbcTransaction] - Opening JDBC Connection
